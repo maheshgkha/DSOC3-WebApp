@@ -11,6 +11,6 @@ For full license terms, please visit: https://creativecommons.org/licenses/by-nc
 
 Attribution: DevSecOps Club (DSOC3)
 
-Original Work: https://github.com/dsoc3/Jenkins.git
+Original Work: https://github.com/dsoc3/DSOC3-WebApp.git
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit: https://creativecommons.org/licenses/by-nc/4.0/
